@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Techy0302
+- 👋 Hi, I’m @ashwani_02
 - 👀 I’m interested in android stuff
 - 🌱 I’m currently learning rom building
 - 💞️ I’m looking to collaborate on ...
